@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Planet
+  - Enemics
+  - UI
+  - Enemic
+  - Torre
+  - Airship
+  - Mesh
+  - FxTemporaire
+  - Portals
+  - Altars
+  - Menu
+  - Menu Game
+  - Menu Options
+  - EspaDOTe
+  - General
+  - barra_vida
+  - Mira
+  - vida
+  - n_vida
+  - HUD
+  - item
+  - Objectiu
+  - Estat
+  - Pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Enemic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

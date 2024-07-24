@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3be32f424c62c9c45bcc84e40935749b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tree: {fileID: 493882, guid: 43ac926c2709a4b4e9868e88f7f97a61, type: 3}
+  - rock: {fileID: 428530, guid: 84a240cf1c5ef5f4d8ff048828a60d97, type: 3}
+  - grass: {fileID: 464626, guid: 8e29574f61c003a45a3cc9a571582336, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
