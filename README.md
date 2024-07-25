@@ -1,4 +1,5 @@
-# NOTE: This game was originally developed in 2020 over a span of three weeks by a group of three friends. The aim was to explore Unity, procedural generation and different styles of games.
+# NOTE: This game was originally developed in 2020 over a span of three weeks by [@VBoschMatas](https://github.com/VBoschMatas), [@Xavi3398](https://github.com/Xavi3398) and me ([@DinDotDout](https://github.com/DinDotDout)). The aim was to explore Unity, procedural generation and different styles of games.
+
 
 # D_O_T
 D_O_T is a procedural planet editor and game that offers a blend of genres across three distinct stages:
